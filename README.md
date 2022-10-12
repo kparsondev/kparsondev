@@ -1,11 +1,11 @@
-<h1>Hi, I'm Knatia (nuh-tee-uh)! <br/><a href="https://github.com/kparsondev">Back-end Developer (Python)</a>, <a href="https://www.linkedin.com/in/knatiaparson/">Django Specialist</a></h1>
+<h1>Hi, I'm Knatia (nuh-tee-uh)! <br/><a href="https://github.com/kparsondev">Web Developer </a><a href="https://www.linkedin.com/in/knatiaparson/"></a></h1>
 
-<h2>Back-end Development Projects:</h2>
+<h2>Front-end Development Projects:</h2>
 
-- <b>Python</b>
+- <b>HTML & CSS</b>
   - 
   
-- <b>Django</b>
+- <b></b>
   - 
   
  
