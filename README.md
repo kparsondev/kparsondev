@@ -3,7 +3,7 @@
 <h2>Front-end Development Projects:</h2>
 
 - <b>HTML & CSS</b>
-  - [10 Facts About Jupiter]([)
+  - [10 Facts About Jupiter](https://github.com/kparsondev/jupiter)
   
 - <b></b>
   - 
