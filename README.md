@@ -21,7 +21,7 @@
 [<img align="left" alt="KnatiaParson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/knatiaparson/
-[linkedin]: https://linkedin.com/in/knatiaparson
+[linkedin]: https://linkedin.com/in/knatiaparson/
 
 <!--
 **kparsondev/kparsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
